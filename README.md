@@ -114,7 +114,7 @@ These limitations suggest potential areas for further research, especially in ad
 <p align="center">
   <img src="./images/4.png" alt="4" width="600">
 </p>
-<p align="center"><strong>Table 2</strong>: Proportion of errors in of a set of 100 GSM8K questions.CD makes more arithmetic errors,but omits fewer steps and avoids semantic misunderstandings.</p>
+<p align="center"><strong>Table 2</strong>: Proportion of errors in of a set of 100 GSM8K questions. CD makes more arithmetic errors, but omits fewer steps and avoids semantic misunderstandings.</p>
 
 ## Impact
 The significant contribution of contrastive decoding is its ability to balance reasoning accuracy and computational efficiency without additional training. By adjusting the generation process itself, CD opens the door for scalable, reasoning-focused improvements across LLM applications. Its performance across commonsense and arithmetic tasks points to its relevance in enhancing AI model reliability in real-world scenarios.
