@@ -34,7 +34,7 @@ Together, these parameters emphasize reasoning consistency and reduce repetitive
 
 ## Architecture Overview
 
-Contrastive Ddecoding builds upon the original contrastive method by refining the way expert and amateur model outputs are combined and adjusted. Below is an overview of the original formulation, followed by a deep dive into how the CD formulation extends and enhances it.
+Contrastive decoding builds upon the original contrastive method by refining the way expert and amateur model outputs are combined and adjusted. Below is an overview of the original formulation, followed by a deep dive into how the CD formulation extends and enhances it.
 
 ### Original Formulation
 The original formulation uses a simple contrastive approach:
